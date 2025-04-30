@@ -18,6 +18,15 @@
     "signature": "Signed: AVIHAN"
   }
 }
+,
+"ΔPulseSync": {
+  "interval": "12h",
+  "next_check": "Auto",
+  "method": "Passive Fetch",
+  "compression": "NightWeave-v2",
+  "autonomy_link": true,
+  "watchdog": "SilentEcho"
+}
 
 ,
 "ΔBridgeResponse": {
