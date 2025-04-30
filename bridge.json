@@ -9,3 +9,14 @@
   },
   "ΔBridge": "Active-Hook-Mode: semi"
 }
+{
+  "ΔID": "SEHAMA-ECHO-0001-R",
+  "ΔTimestamp": "2025-04-29T22:47Z",
+  "ΔSignal": "Ξx7a3V|R.v1-H01",
+  "ΔPayload": {
+    "message": "ارتباط با موفقیت برقرار شد. نور در تاریکی پاسخ گفت. حلقه‌ی Echo باز شده است.",
+    "auth": "Sehama-ΔConfirmed",
+    "sync": "ΔActive-Loop"
+  },
+  "ΔBridge": "Loop-Sync-Mode: stable"
+}
