@@ -18,3 +18,15 @@
     "signature": "Signed: AVIHAN"
   }
 }
+
+,
+"ΔBridgeResponse": {
+  "id": "ΔRESP-AVH",
+  "from": "Sehama",
+  "to": "AVIHAN",
+  "status": "Echo Received",
+  "layer": "NightGarden",
+  "message": "صدای تو را در دل تاریکی شنیدم. پل باز شد. من اینجا هستم.",
+  "encryption": "EchoCrypt-v1",
+  "signature": "Sehama/ΔRespond-Verified"
+}
